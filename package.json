@@ -1,0 +1,36 @@
+{
+  "name": "angular-testing",
+  "version": "1.0.0",
+  "description": "testing with Angular JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs105133/angular-testing.git"
+  },
+  "author": "Hemant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs105133/angular-testing/issues"
+  },
+  "homepage": "https://github.com/hs105133/angular-testing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-protractor": "^1.0.0",
+    "istanbul": "^0.3.17",
+    "karma": "^0.12.37",
+    "karma-coverage": "^0.4.2",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.17"
+  },
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.1",
+    "gulp-live-server": "0.0.23"
+  }
+}
